@@ -42,6 +42,6 @@ end
 
 
 
-gem "pundit", "~> 2.4"
+gem "pundit", "~> 2.5"
 
 gem "rspec-rails", "~> 7.1"
