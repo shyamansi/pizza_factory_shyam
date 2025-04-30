@@ -44,4 +44,4 @@ end
 
 gem "pundit", "~> 2.4"
 
-gem "rspec-rails", "~> 7.1"
+gem "rspec-rails", "~> 8.0"
